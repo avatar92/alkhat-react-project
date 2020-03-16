@@ -1,0 +1,28 @@
+.main-footer {
+  background: url("../../../images/img-backgrounds/footer-background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -1px;
+  font-size: 1.25rem;
+}
+.footer-wrapper {
+  padding-top: 90px;
+  padding-bottom: 70px;
+}
+.alkhatLogo {
+  width: 217px;
+  height: 81px;
+}
+.copyrights {
+  padding-top: 20px;
+}
+.footer-title {
+  color: #feee00;
+}
+.small-horizental-seperator{
+    border: 1px solid white;
+    height: 0;
+    width: 30px;
+    margin: 16px 0;
+}

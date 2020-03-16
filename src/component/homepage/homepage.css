@@ -1,0 +1,219 @@
+/*About us section*/
+.about-us {
+  background: url("../../../src/images/img-backgrounds/Background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -1px;
+  display: flex;
+  justify-content: center;
+}
+.description-about-us {
+  max-width: 813px;
+  /* border: 1px solid white; */
+  margin-top: 214px;
+  margin-bottom: 120px;
+  /*here flex*/
+  display: flex;
+}
+.horizental-seperator {
+  border: 1px solid white;
+  min-width: 150px;
+  height: 0px;
+  margin-top: 18px;
+  margin-right: 17px;
+}
+.title-about-us {
+  font-size: 2.2rem;
+}
+.subtitle-about-us {
+  font-family: "FuturaLTOblique";
+  color: #feee00;
+  margin: 0 0 27px;
+}
+.content-about-us {
+  text-align: justify;
+}
+.more-detail-button {
+  float: right;
+  margin-top: 66px;
+}
+
+/*Our objectifs section*/
+.our-objectif {
+  background: url("../../../src/images/img-backgrounds/IMG-2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* min-height: 768px; */
+  margin-top: -1px;
+}
+.description-our-objectif {
+  max-width: 813px;
+  /* border: 1px solid white; */
+  margin: 0 auto 0 auto;
+  padding-top: 78px;
+  /*here flex*/
+  display: flex;
+}
+.title-our-objectif {
+  font-size: 2.2rem;
+}
+.subtitle-our-objectif {
+  font-family: "FuturaLTOblique";
+  color: #feee00;
+  margin: 0 0 27px;
+}
+.content-our-objectif {
+  text-align: justify;
+}
+.objectif-brands {
+  /* border: 1px solid white; */
+  text-align: center;
+  max-width: 1024px;
+  margin-top: 73px;
+  padding-bottom: 120px;
+}
+.journalisme,
+.innovation,
+.plaidoyer {
+  height: 120px;
+}
+.brand-title {
+  margin-top: 37px;
+  color: #fee300;
+  margin-bottom: 33px;
+}
+.brand-description {
+  text-align: justify;
+  padding: 0px 33px;
+}
+/*Nos Service*/
+.our-services {
+  background: url("../../../src/images/img-backgrounds/Background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* min-height: 768px; */
+  margin-top: -1px;
+}
+
+.description-our-services {
+  max-width: 813px;
+  /* border: 1px solid white; */
+  margin: 0 auto 0 auto;
+  padding-top: 78px;
+  /*here flex*/
+  display: flex;
+}
+.title-our-services {
+  font-size: 2.2rem;
+}
+.subtitle-our-services {
+  font-family: "FuturaLTOblique";
+  color: #feee00;
+  margin: 0 0 27px;
+}
+.content-our-services {
+  text-align: justify;
+}
+.services-brands {
+  /* border: 1px solid white; */
+  text-align: center;
+  max-width: 1096px;
+  margin-top: 73px;
+  padding-bottom: 120px;
+}
+.formation,
+.developpement,
+.design,
+.production {
+  height: 85px;
+}
+.less-padding {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+.btn-discover {
+  margin-top: 40px;
+}
+/*Our project*/
+.our-project {
+  background: url("../../../src/images/img-backgrounds/IMG-3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -1px;
+}
+.description-our-project {
+  max-width: 813px;
+  /* border: 1px solid white; */
+  margin: 0 auto 0 auto;
+  padding-top: 78px;
+  /*here flex*/
+  display: flex;
+}
+.title-our-project {
+  font-size: 2.2rem;
+}
+.subtitle-our-project {
+  font-family: "FuturaLTOblique";
+  color: #feee00;
+  margin: 0 0 27px;
+}
+.content-our-project {
+  text-align: justify;
+}
+.projects-wrapper {
+  max-width: 800px;
+  margin: 70px auto 0 auto;
+  /* border:1px solid white; */
+  padding-bottom: 100px;
+}
+.project-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/*Confidence section*/
+.confidence {
+  background: url("../../../src/images/img-backgrounds/Background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 768px;
+  margin-top: -1px;
+}
+.description-confidence {
+  max-width: 813px;
+  /* border: 1px solid white; */
+  margin: 0 auto 0 auto;
+  padding-top: 78px;
+  /*here flex*/
+  display: flex;
+}
+.title-confidence {
+  font-size: 2.2rem;
+}
+.subtitle-confidence {
+  font-family: "FuturaLTOblique";
+  color: #feee00;
+  margin: 0 0 27px;
+}
+.content-confidence {
+  text-align: justify;
+}
+.partenaire-container{
+    max-width: 1024px;
+    margin: 95px auto 135px auto;
+    text-align: center;
+}
+.first-row{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+}
+.second-row{
+    display: flex;
+    justify-content: space-evenly;
+}
